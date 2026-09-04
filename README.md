@@ -1,16 +1,17 @@
 # 🧱 Welcome
 
-Hi there 👋, my name is **Titus Sutio Fanpula** and you call me **Titus**. 
+Hi there 👋, my name is **Titus Sutio Fanpula**, but you can call me **Titus**.
 
-##### Nice to see you here and welcome to my GitHub board. 😊
+##### Nice to see you here. Welcome to my GitHub board. 😊
 
-💻 I spend most of my time working on frontend development — building and maintaining applications that stay clean, structured, and scalable.
+💻 I'm a frontend developer focused on building and maintaining **clean, structured, and scalable applications**, with a strong focus on **Angular** and **React**.
 
-🧩 From time to time, I enjoy revisiting codebases — refactoring, improving structure, or just making things easier to work with (especially in Angular & React).
+🧩 I particularly enjoy working with existing codebases — **refactoring legacy code, upgrading Angular applications, improving architecture, fixing complex frontend issues, and making applications easier to maintain.**
 
-✨ If you happen to be working on something similar and feel like exchanging ideas or collaborating remotely, feel free to reach out.
+🏗️ My interests include **Angular, Angular Material, RxJS, TypeScript, frontend architecture, reusable components, and enterprise applications**.
 
-Always up for a good tech conversation.
+✨ If you're working on an Angular or React project and need help with **development, refactoring, migration, troubleshooting, or improving an existing codebase**, feel free to reach out.
 
-That's it. Thank you
+I'm always open to interesting projects, remote collaboration, and a good tech conversation.
 
+That's it. Thanks for stopping by! 🚀
